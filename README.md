@@ -35,6 +35,9 @@ Your application will be available at `http://localhost:5173`.
 
 This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
 
----
 
+### Samples Pages
+![Company Introduction](sample/Img01.png)
+
+---
 Built with ❤️ using React Router.
